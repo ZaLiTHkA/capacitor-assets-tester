@@ -1,0 +1,7 @@
+{
+  "name": "Capacitor Assets Tester",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
